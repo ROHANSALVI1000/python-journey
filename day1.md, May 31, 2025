@@ -1,0 +1,30 @@
+# Day 1: Introduction to Python
+**Date**: May 31, 2025
+
+## What I Did Today
+- Installed Python and PyCharm
+- Watched introductory videos on Python
+- Wrote my first Python script
+
+## What I Learned
+- Basics of Python syntax
+- How to run a Python script in PyCharm
+- Understanding print statements
+
+## Code Practiced
+```python
+print("Hello, World!")
+name = input("Enter your name: ")
+print(f"Welcome, {name}!")
+
+## Challenges
+- Took time to install PyCharm, but figured it out.
+- Forgot to save the file before running the code once.
+
+## Next Steps
+- Learn about variables and basic math operations.
+
+
+
+I will update this log every day to share what I’ve learned during my Python journey. This is Day 1 — just the beginning!
+
