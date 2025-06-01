@@ -1,0 +1,6 @@
+print("hello world")
+name = input("what is your name? ")
+birth_year= input("what is your birth year? ")
+age = 2025-int(birth_year)
+favorite_color = input("what is your favorite color? ")
+print( name + " is " + str(age) +  " years old " + " and his favorite color is " + favorite_color)
